@@ -8,12 +8,12 @@
 This project focuses on building a predictive model to identify potential customers likely to subscribe to a term deposit. By leveraging machine learning classification techniques, the goal is to optimize marketing strategies and improve conversion rates for financial institutions.
 
 ## 🚀 Technical Expertise
-- [cite_start]**Programming:** Python 
-- [cite_start]**Data Analysis:** Excel, Tableau, and Kaggle environments 
+- **Programming:** Python 
+- **Data Analysis:** Excel, Tableau, and Kaggle environments 
 - **Modeling:** Classification algorithms and predictive analytics.
 
 ## 📂 Dataset & Methodology
-[cite_start]The data for this project was analyzed and modeled on **Kaggle**[cite: 29].
+The data for this project was analyzed and modeled on **Kaggle**.
 1. **Data Cleaning:** Handling missing values and ensuring data integrity for model training.
 2. **Exploratory Data Analysis (EDA):** Visualizing subscriber trends using Python-based libraries.
 3. **Feature Engineering:** Selecting key variables that influence a customer's decision to subscribe.
